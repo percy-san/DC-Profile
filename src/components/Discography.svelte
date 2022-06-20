@@ -11,20 +11,12 @@
   	let currentTab;
 
 	const StudioAlbums = [
-  		{ id:1, name:'The Beginning of the End', date:'September 11, 2019', cover:"Beginning_of_the_end.jpg",
-  		  albumInfo:'The Beginning of the End is the first Japanese album and the first studio album by Dreamcatcher released in September 11, 2019',
-  		  tracks:[
-  		  	{name:'fdsfdsfs'},
-  		  	{name:'fdsfdsfs'}
-  		  	]
-
-  		  
-  		 
+  		{ id:1, name:'The Beginning of the End', date:'September 11, 2019', cover:"https://static.wikia.nocookie.net/dreamcatcherwiki/images/5/55/The_Beginning_of_the_End_Digital.jpg/revision/latest?cb=20190820184435"  
   		},
 
-  		{ id:2, name:'Dystopia: The Tree of Language',date:'February 18, 2020',cover:"Tree_of_Language.jpg"},
+  		{ id:2, name:'Dystopia: The Tree of Language',date:'February 18, 2020',cover:"https://th.bing.com/th/id/OIP.pYbAswTRPTH6OSUXgvEnHAHaHa?pid=ImgDet&rs=1"},
 
-  		{ id:3, name:'Apocalypse: Save us', date:'April 12, 2022', cover:"Apocalypse_Save_us.jpg" }
+  		{ id:3, name:'Apocalypse: Save us', date:'April 12, 2022', cover:"https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" }
   	]
 
   	const MiniAlbums = [
@@ -48,7 +40,7 @@
   	const SingleAlbums = [
   		{ id:1, name:'Nightmare', date:'January 13, 2017', cover:"Nightmare.png"},
 
-  		{ id:2, name:'Fall Asleep in the Mirror',date:'April 5, 2017',cover:"Fall_Asleep_in_The_Mirror.png"},
+  		{ id:2, name:'Fall Asleep in the Mirror',date:'April 5, 2017',cover:"https://i.scdn.co/image/ab67616d0000b273c887fc8de566bcd2c76e9e9e"},
 
   		{ id:3, name:'What (Japanese Ver.)', date:'November 21, 2018', cover:"What_Japanese.png" },
 
